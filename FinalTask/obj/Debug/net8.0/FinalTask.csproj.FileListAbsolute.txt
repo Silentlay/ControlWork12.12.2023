@@ -1,0 +1,15 @@
+E:\ControlWork12.12.2023\FinalTask\bin\Debug\net8.0\FinalTask.exe
+E:\ControlWork12.12.2023\FinalTask\bin\Debug\net8.0\FinalTask.deps.json
+E:\ControlWork12.12.2023\FinalTask\bin\Debug\net8.0\FinalTask.runtimeconfig.json
+E:\ControlWork12.12.2023\FinalTask\bin\Debug\net8.0\FinalTask.dll
+E:\ControlWork12.12.2023\FinalTask\bin\Debug\net8.0\FinalTask.pdb
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.AssemblyInfoInputs.cache
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.AssemblyInfo.cs
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.csproj.CoreCompileInputs.cache
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.sourcelink.json
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.dll
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\refint\FinalTask.dll
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.pdb
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\FinalTask.genruntimeconfig.cache
+E:\ControlWork12.12.2023\FinalTask\obj\Debug\net8.0\ref\FinalTask.dll
